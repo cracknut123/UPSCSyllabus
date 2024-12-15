@@ -1,7 +1,4 @@
-1.  Introduction			
-"
-01.  Meaning,  Scope  and  Significance  of  Public  Administration"			
-	Question		
+01.  Meaning,  Scope  and  Significance  of  Public  Administration"		
 	“Public    Administration is	constantly	being	reinvented	because	it	is contextual” Elaborate.			
 	"The  scope  of  the  discipline  of  Public  Administration  is  determined  by  what an   administrative   system   does."   Does   it   mean   that   the   scope   of   this discipline  is boundaryless?  Explain.		
 	"Public  Administration  is  the  translation  of  politics  into  reality  that  citizens see everyday." (Donald F.  Kettl and  Janies W)		
@@ -12,8 +9,7 @@
 	"Though  there  are  certain  points  of  similarity  between  public  and  private administration  yet  no  private  organisation  can  ever  be  exactly  the  same  as  a public one." Examine		
 	"Publicness   Comment"   of   Public   Administration   in   an   ideal   democratic government  remains  the  ultimate  value in theory  and practice. 'Elucidate.		
 	"A   science   of   admministration   would   be   a   body    of    formal   statements describing    invariant    relationships    between    measurable    ojects,    units    or elements.   unquestionably,   administrative   research   has   produced   definite precepts   and   hypotheses   that   are   applicable   to   concrete   situation."   (Fritz Morsetin Marx) Comment.		
-02.  Wilson's  Vision  of  Public  Administration			
-	Question		
+02.  Wilson's  Vision  of  Public  Administration				
 	"Even  after  130  years  of  its  publication.  Woodrow  Wilson's  essay  "The  Study of  Administration' continues  to  have great relevance even today." Comment.		
 	"The  field of  Public  Administration is  a field  of  business." (Woodrow Wilson)		
 	"Calling  Woodrow  Wilson,  the  father  of  Public  Administration  is  doing  injustic to equally  or even more eminent contributions  made  prior to him. "  Comment.		
@@ -29,8 +25,7 @@
 	Given  an  account  of  major  landmarks  in  the  growth  of  the  discipline  of  Public Administration   in   the   20th   century.   What   are   the   possible   trends   in   its growth in  the  first  decade  of  21st  century?		
 	Describe  the  evolution  of  the  discipline  of  public  administration  with  special emphasis on post  - 1971 developments.		
 	"……….  The  paradigms  of  public  administration  may  be  understood  in  terns of   locus   and   focus.   "   Golembiewski.   In   the   light   of   the   above   statement describe  the evolutions  of  the  discipline  of public  administration  .		
-04.  New  Public  Administration			
-	Question		
+04.  New  Public  Administration					
 	“The       Phenomenological      Approach      advocated      by       the      New       Public Administration    has    obstructed    the    path    of    theory    building    in    Public Administration."  Comment.		
 	"The  New  Public  Administration  has  seriously  jolted  the  traditional  concepts and  outlook  of  the  discipline  and  enriched  the  subject  by  imparting  wider perspective  by  linking  it  closely  to  the  society.  "  (Felix  A.  Nigro  and  Lloyd  G. Nigro) Elucidate.		
 	In   the   evolution   of   the   discipline   of   Public   Admnistration,   Minnowbrook Coferences   I,   II   and   III   reflect   the   discipline's   reconceptualisation   and   its changing  values.  Elucidate.		
@@ -43,20 +38,18 @@
 	What  is  administrative  elitism?  How  does  it  evolve  in  public  administration? Elaborate your response with reference to historical examples.		
 	On   a   more   sophisticated   plane   public   choice   is   concerned   with   "Pareto optimality",  or at  least with "Pareto  improvements". Comment		
 	Whereas   Downs'   Model   is   largely   dependent   on   a   theiry   of   psychological motivation,  Niskanen's  model  is  framed  by  neo  -  classical  thinking.  In  the light of  the above,  discuss  the public  choice approach to decision - making		
-06.  Challenges  of  Liberalisation,  Privatisation  and  Globalisation			
-	Question		
+06.  Challenges  of  Liberalisation,  Privatisation  and  Globalisation				
 	“Globalization   has   constructed   the   administrative   state   to   save   and   serve corporate   power   structure.”   Discuss   how   transnational   corporation   impact government and public  administration in the contemporary era.		
 	"Liberalisation,  privatisation  and  globalisation  have  transformed  the  nature  of development  administration." Discuss		
 	"Globalisation   has   transformed   the   nature   and   character   of   State   from traditional   administrative   Welfare   State   to   a   Corporate   State."   Analyse   the changes  in the nature  of  public  administration in this context.		
 	"In   the   globalized   public    administration, hierarchy	creates	more	ethical  problems  than it solves ……"Comment		
 07.  Good  Governance:  Concept  and  Application			
-	Question		
+	
 	With  the  entry  of  the  concept  of  ‘good  governance’  the  discipline  of  Public Administration has  shed its  statist character. Explain.		
 	“Governance    is    neither    a    paradigm    nor    a    panacea    for    all    the    ills    of government.  It  may  be  a  more  useful  approach  when  other  methods  fail  in providing public  service.” Critically evaluate.		
 	"Good  governance  is  respect  for  human  rights  and  the  rule  of  law,  streng  - thening     democracy,     promoting     transparency     and     capacity     in     Public Administration.  "  (Kofi  Annan) In  the  light  of  the  statement.  Critically  examine the  criterial  of  good  governance  as  provided  by  United  Nations  and  Nayef  Al- Rodhan.		
 	Democracy  and  good  governance  are  contradict  -  ions  in  terms.  Discuss  with examples		
-08.  New  Public  Management			
-	Question		
+08.  New  Public  Management				
 	Contractualism  has  became   a  favourite  policy  of  the   neoliberal  forces,  but now without its  share of controversy.  Argue.		
 	Has  New  Public  Management  failed  in  promoting  a  democratic  polity?  Analyze in the  contexts of individuals as a  citizen and individuals as a  costumer.		
 	“New  Public  Service  approach  is  an  improvement  over  its  predecessor,  New Public  Management." Discuss		
